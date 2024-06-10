@@ -1,6 +1,6 @@
-## Hackathon-Presentation
+### Hackathon-Presentation
 
-### Rigol'App
+## Rigol'App
 
 <p>Let me introduce you to my first Hackathon after two month as a web developer student.</p>
 
